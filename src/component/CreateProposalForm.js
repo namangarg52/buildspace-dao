@@ -37,7 +37,7 @@ export default class CreateProposalForm extends Component {
   }
 
   render() {
-    return (
+    return ( 
       <FormControl>
         <VStack spacing={4}>
           <FormLabel>Title</FormLabel>
